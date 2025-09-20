@@ -201,7 +201,7 @@ nav {
     font-size: 48px;
     font-weight: bold;
     color: #1e3a8a;
-    margin: 10px 0;
+    margin: 0px 0;
 }
 
 .hero h1 span {
@@ -245,7 +245,7 @@ nav {
 
 .attractions {
     text-align: center;
-    padding: 50px 20px;
+    padding: 40px 20px;
 }
 
 .attractions h2 {
@@ -305,6 +305,7 @@ nav {
     font-weight: bold;
     cursor: pointer;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    z-index: 10;
 }
 
 .prev {
