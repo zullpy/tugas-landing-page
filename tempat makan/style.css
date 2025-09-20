@@ -111,8 +111,8 @@ nav {
     flex: 1;
 }
 
-#dropdown a{
-    text-decoration: none; 
+#dropdown a {
+    text-decoration: none;
     color: #1e3a8a;
 }
 
@@ -121,7 +121,7 @@ nav {
     transition-duration: 0.3s;
 }
 
-.main{
+.main {
     margin-top: 130px;
     padding: 0 40px;
     display: flex;
@@ -129,7 +129,7 @@ nav {
     background-color: #1e3a8a;
 }
 
-.main h1{
+.main h1 {
     font-size: 38px;
     color: #1e3a8a;
     background-color: #FFCC00;
@@ -140,7 +140,7 @@ nav {
     width: 50%;
 }
 
-.text{
+.text {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -148,7 +148,7 @@ nav {
     margin-top: 20px;
 }
 
-.main p{
+.main p {
     font-size: 20px;
     color: white;
     text-align: center;
